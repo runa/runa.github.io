@@ -1,0 +1,23 @@
+---
+categories: ia
+layout: post
+title:  "La IA"
+date:   2025-06-13 13:13:25 -0300
+---
+
+## Mi relación con la AI
+
+Yo 'trabajo con computadoras' hace 25 años: vi aparecer y consolidarse Linux como OS de servers indiscutido, trabajé en la 'burbuja .com' del 2000, vi nacer y crecer bittorrent; los sistemas descentralizados y distribuidos de en serio, viví como la virtualización de hardware pasó a ser algo realmente usable y el comienzo los servicios de cloud en 2006; luego las aparición de computadoras baratas (raspi, netbooks) en 2012 y después, por muchos años no pasó nada.
+
+Bueno, en realidad, no pasó nada que _me emocione_, porque crypto nunca me enganchó. Mis reacciones más bien eran: "oh, que curiosidad", "mirá que piola, una db distribuida", "¿para qué lo podríamos usar?"
+(algunas preguntas se contestaron: 
+	- para que lo podríamos usar? 
+	- transferir plata
+	- re piola, muy útil, copado! 
+)
+
+Entonces, _para mí_, en las últimas décadas de las computadoras, no pasó nada disruptivo; hasta que llegó la AI. Y esto sí me parece poderoso, que cambia  el juego y que esta al alcance de todos. 
+Con un montón de incertidumbres, con montón de riesgos y aún así, fascinante.
+
+Se mueve todo tan rápido que da miedo y siento que no es todavía el momento de hacer _una empresa con AI_; sino que es el momento de skillear, de aprender como se usa, para que sirve, cuales son los límites, por donde viene la mano. 
+Un acercamiento más lúdico, exploratorio, sin compromisos. 
