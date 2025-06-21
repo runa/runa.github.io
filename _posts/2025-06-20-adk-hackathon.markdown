@@ -6,7 +6,7 @@ title:  "ADK Hackathon"
 # El Hackathon de Agent Development Kit
 
 
-Como escribí antes, todavía no quiero hacer una empresa de IA, por eso el [hackathon de ADK](https://googlecloudmultiagents.devpost.com/?utm_source=gamma&utm_medium=email&utm_campaign=FY25-Q2-NORTHAM-GOO34096-onlineevent-su-ADKHackathon&utm_content=innovators-newsletter&utm_term=-) me vino bien: vamos a jugar con esto, vamos a hacer algo que "parezca en serio".
+Como escribí antes, todavía no quiero hacer una empresa de IA, por eso el [hackathon de ADK](https://googlecloudmultiagents.devpost.com/?utm_source=gamma&utm_medium=email&utm_campaign=FY25-Q2-NORTHAM-GOO34096-onlineevent-su-ADKHackathon&utm_content=innovators-newsletter&utm_term=-) me vino bien: vamos a jugar con esto, vamos a hacer algo que "parezca en serio" #adkhackathon
 
 ## Agent Development Kit
 [ADK es una lib open source de google](https://google.github.io/adk-docs/) para 'hacer agentes'. Está bueno que muchos casos están contemplados entonces rápidamente se pueden hacer cosas:
